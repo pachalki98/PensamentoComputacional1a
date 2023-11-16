@@ -1,7 +1,18 @@
 body{
 background-color: blueviolet;
 }
-h1{
-font-size: 30px;
-
+#titulo{
+    font-size: 25px;
+    text-align: center;
+    color: aqua (139, 33, 120);
+}
+.texto {
+    text-align: center;
+    color: deepskyblue ;
+    font-size: 20px;
+}
+#banner {
+    background-color: darkolivegreen;
+    width: 30%;
+    display: block;
 }
