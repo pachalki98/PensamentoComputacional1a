@@ -12,9 +12,16 @@ background-color: blueviolet;
     font-size: 20px;
 }
 #banner {
-    background-color: darkolivegreen;
+    background-color: rgb(60, 47, 107);
     width: 30%;
     display: block;
     padding: 10px;
     margin: auto;
+}
+.banner {
+    background-image: -o-linear-gradient(red);
+    color: blue;
+}
+.texto {
+    color: black;
 }
